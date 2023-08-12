@@ -4598,6 +4598,24 @@
 					<key>WakeVerbReinit</key>
 					<true/>
 				</dict>
+                    <dict>
+                        <key>AFGLowPowerState</key>
+                        <data>AwAAAA==</data>
+                        <key>Codec</key>
+                        <string>Custom ALC287 for Lenovo Xiaoxin14pro by ziesnp57</string>
+                        <key>CodecID</key>
+                        <integer>283902599</integer>
+                        <key>ConfigData</key>
+                        <data>AUccEAFHHQEBRx4XAUcfmQFHDAICFxwgAhcdEAIXHiECFx8BAhcMAgGXHDABlx0QAZcepgGXH5kBJxxAAScdAQEnHoEBJx8B</data>
+                        <key>FuncGroup</key>
+                        <integer>1</integer>
+                        <key>LayoutID</key>
+                        <integer>31</integer>
+                        <key>WakeConfigData</key>
+                        <data>AUcMAgIXDAIBlwckAacHIAIXCIM=</data>
+                        <key>WakeVerbReinit</key>
+                        <true/>
+                    </dict>
 				<dict>
 					<key>AFGLowPowerState</key>
 					<data>AwAAAA==</data>
